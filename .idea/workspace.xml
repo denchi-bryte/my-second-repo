@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33455b4c-3bc5-46cb-98e4-97720242c0ac" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProjectjava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestSimpleCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleWithPrivateDataFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Format.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +76,19 @@
       <workItem from="1675335928278" duration="79000" />
       <workItem from="1675336546041" duration="619000" />
       <workItem from="1675340431361" duration="3758000" />
-      <workItem from="1675522555781" duration="1478000" />
+      <workItem from="1675522555781" duration="2107000" />
+      <workItem from="1675620327957" duration="4870000" />
+      <workItem from="1675681179955" duration="2889000" />
+      <workItem from="1675757678854" duration="1867000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1675524930971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675524930971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
