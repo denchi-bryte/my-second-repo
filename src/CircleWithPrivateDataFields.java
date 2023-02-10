@@ -3,7 +3,6 @@ public class CircleWithPrivateDataFields {
     private static int numberOfObjects = 0;
 
     public CircleWithPrivateDataFields(){
-        radius = 1.0;
         numberOfObjects++;
     }
     public CircleWithPrivateDataFields (double newRadius){
